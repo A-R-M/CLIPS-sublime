@@ -8,11 +8,11 @@ The origins of the C Language Integrated Production System (CLIPS) date back to 
 
 ## How to install?
 
-You can download a ZIP file from https://github.com/A-R-M/CLIPS-sublime and unpack it in the Data/Packages/ folder inside Sublime’s installation folder.
+You can download a ZIP file from https://github.com/A-R-M/CLIPS-sublime and unpack it in the `Data/Packages/` folder inside Sublime’s installation folder.
 
 ## About & Credits
 
-This fork adds syntax definitions for recognizing CLIPS strings. This was originally a fork of https://github.com/GeoK/CLIPS-sublime, which itself was originally a fork of https://github.com/psicomante/CLIPS-sublime.
+This fork adds syntax definitions for recognizing CLIPS strings to `Syntaxes/CLIPS.tmLanguage`. This was originally a fork of https://github.com/GeoK/CLIPS-sublime, which itself was originally a fork of https://github.com/psicomante/CLIPS-sublime.
 
 ## License ##
 
